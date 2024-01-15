@@ -36,7 +36,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Bem vindos ! Esse é meu portfolio simples para apresentação de alguns dos meus trabalhos. 
+           🇧🇷 Bem vindos ! Esse é meu portfolio simples para apresentação de alguns dos meus trabalhos. 
           </p>
           <div>
             <Link
