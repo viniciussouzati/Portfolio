@@ -60,7 +60,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">Sobre Mim</h2>
           <p className="text-base lg:text-lg">
           Sou um desenvolvedor web full stack apaixonado por criar
-            aplicações web interativas e responsivas. Possuo tenho experiencia
+            aplicações web interativas, automação e análise de dados. Possuo tenho experiencia
             em projetos pessoais com React, Vue, Node.js, Python, MySQL,
             HTML, CSS e Git. Eu aprendo rápido e estou sempre
             buscando expandir meu conhecimento e conjunto de habilidades. Trabalho muito bem em equipe, pensamento analítico, e
