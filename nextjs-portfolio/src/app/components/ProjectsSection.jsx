@@ -29,8 +29,8 @@ const projectsData = [
     description: "Esse é um grande  projeto pessoal. Um ERP, onde será possível toda administração de seu negócio. Controle de estoque, vendas e CRM.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://projetoemveu.vercel.app/",
+    previewUrl: "https://projetoemveu.vercel.app/",
   },
 
 ];
