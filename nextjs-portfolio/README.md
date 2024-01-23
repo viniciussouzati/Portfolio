@@ -3,7 +3,7 @@
 🇧🇷 Este é um site de portfólio construído com Next.js e Tailwind CSS. Ele mostra suas habilidades, projetos e conquistas em um design elegante e responsivo.
 
 
-## Instalção
+## Instalação
 
 1. Clone o repositório:
 2. Navegue ao diretório do Projeto:
