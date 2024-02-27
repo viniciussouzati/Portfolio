@@ -16,7 +16,7 @@
 1. Inicie o servidor de desenvolvimento:
 2. Abre o seu navegador:
 
-## Dependencies
+## Dependencias
 
 - Next.js: 
 - Tailwind CSS: 
