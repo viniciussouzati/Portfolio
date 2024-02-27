@@ -1,6 +1,6 @@
 # Portfolio Website
 
-🇧🇷 Este é um site de portfólio construído com Next.js e Tailwind CSS. Ele mostra suas habilidades, projetos e conquistas em um design elegante e responsivo.
+🇧🇷 Este é um site de portfólio construído com Next.js e Tailwind CSS. Ele mostra minhas habilidades, projetos e conquistas em um design elegante e responsivo.
 
 
 ## Instalação
