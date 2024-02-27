@@ -10,7 +10,7 @@
 3. Instale as depedências:
 "npm install"
    
-## Uso 
+## Modo de Uso 
 
 "npm run dev"
 1. Inicie o servidor de desenvolvimento:
